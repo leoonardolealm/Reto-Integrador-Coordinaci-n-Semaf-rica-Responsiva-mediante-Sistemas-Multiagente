@@ -1,0 +1,4 @@
+escenario,offsets,vehiculos_exitosos,paradas,indice_coordinacion,recompensa
+Sin coordinación,"(0, 0, 0)",16,25,0.7917,149.5833
+Onda teórica,"(0, 2, 49)",40,0,1.0,450.0
+Q-learning,"(0, 135, 10)",21,22,0.8167,206.8333
